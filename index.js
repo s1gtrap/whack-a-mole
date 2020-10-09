@@ -2,7 +2,7 @@
   const WIDTH = 1024;
   const HEIGHT = 768;
   const CENTER = [(WIDTH - 30) / 2, (HEIGHT - 30) / 2, 30];
-  const ROUNDS = 5;
+  const ROUNDS = 60;
 
   const elem = document.getElementById('whack-a-mole');
   const scoreElem = document.getElementById('whack-a-mole-score');
